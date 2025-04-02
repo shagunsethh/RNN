@@ -1,8 +1,8 @@
 # Sentiment Analysis Using RNN
 
 # Group 27
-#### Shagun Seth(055042)
-#### Sweta Behera(055051)
+#### ~Shagun Seth(055042)
+#### ~Sweta Behera(055051)
 
 ## 📌 Problem Statement
 Customer reviews on e-commerce platforms like Amazon contain valuable insights about user experiences. However, manually analyzing thousands of reviews is impractical. This project automates sentiment analysis using *recurrent neural networks (RNNs)* to classify reviews as positive or negative.
